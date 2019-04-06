@@ -11,9 +11,9 @@ cd Create-Deface
 
 chmod 777 create.sh
 
-./create.sh
+sh create.sh
 
 
-pilih no 2
+pilih no 2 (untuk imstall paketnya)
 
-pilih no 1
+pilih no 1 (untuk membuat script deface nya)
