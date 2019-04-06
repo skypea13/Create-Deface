@@ -14,4 +14,6 @@ chmod 777 create.sh
 ./create.sh
 
 
-Setelah
+pilih no 2
+
+pilih no 1
